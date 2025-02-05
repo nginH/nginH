@@ -1,4 +1,5 @@
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nginH" alt="GitHub Streak Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nginH&" alt="nginH" /></p>
-
-[![](https://visitcount.itsvg.in/api?id=nginH&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nginH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
