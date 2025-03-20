@@ -1,10 +1,7 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nginH" alt="GitHub Streak Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nginH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+# Hi, I'm Harsh 👋
+
+Backend developer by specialization, but versatile enough to work with Flutter and React on the frontend, plus DevOps when properly incentivized. 
+
+> "Premature optimization is the root of all evil." - Donald Knuth
+
+You can contact me via social links to the left
